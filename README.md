@@ -5,4 +5,4 @@ The central limit theorem states that for a large enough n, X-bar can be approxi
 The population mean for a six-sided die is (1+2+3+4+5+6)/6 = 3.5.
 ![A test image](https://github.com/litehacker/CENTRAL-LIMIT-THEOREM/blob/master/Screen%20Shot%202020-06-15%20at%2004.34.18.png)
 ![A test image](Screen%20Shot%202020-06-15%20at%2004.35.06.png)
-
+The histograms for each set of averages show that as the sample size, or number of rolls, increases, the distribution of the averages comes closer to resembling a normal distribution. In addition, the variation of the sample means decreases as the sample size increases.
